@@ -1,4 +1,4 @@
-public class AlgoritmoTres {
+public class Algoritmo3 {
 
     void main(){
         //números inteiros de 0 a 100
