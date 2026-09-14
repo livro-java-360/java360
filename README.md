@@ -40,7 +40,10 @@ Nesse github vou inserir
 
 "Você só aprende a programar programando!" Dennis M. Ritchie
 
+### 30 Algoritmos Resolvidos pelos alunos
 
+- git clone <endereco do github>
+- executar os códigos
 
 
 

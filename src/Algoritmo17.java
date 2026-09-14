@@ -1,4 +1,4 @@
-public class AlgoritmoDezessete {
+public class Algoritmo17 {
 
     public void main(){
         int i = 1;

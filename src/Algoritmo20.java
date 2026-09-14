@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class AlgoritmoVinte {
+public class Algoritmo20 {
 
     public void main() {
         List<Integer> numeros = List.of(1, 2, 3, 4, 5);

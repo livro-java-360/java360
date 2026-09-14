@@ -1,4 +1,4 @@
-public class AlgoritmoDezoito {
+public class Algoritmo18 {
 
     public void main() {
         int[] numeros = { 1, 2, 3, 4, 5 };

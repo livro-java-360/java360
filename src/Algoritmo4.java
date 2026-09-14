@@ -9,12 +9,13 @@ public class Algoritmo4 {
         if(x>=10){
             IO.println("número é maior ou igual a 10");
         }
+        // o if composto sem chaves com identação 
         int y = 20;
         if(y==1)
-            IO.println("número é igual a 1");
-      
+            IO.println("número é igual a 1");      
         else
-        IO.println("número é diferente de 1");
+            IO.println("número é diferente de 1");
+    
         int z  = 5;
         if(z<10){
             IO.println("número é menor que 10");
@@ -53,6 +54,16 @@ public class Algoritmo4 {
             break;
           default:
             IO.println("Número inválido!");     
+        }
+        // usando o switch moderno do java 
+        int numAula2 = Integer.parseInt(IO.readln("Entre com um número de 1 a 5"));
+        switch(numAula2){
+          case 1 -> IO.println("Segunda-feira");
+          case 2 -> IO.println("Terça-feira");
+          case 3 -> IO.println("Quarta-feira");
+          case 4 -> IO.println("Quinta-feira");
+          case 5 -> IO.println("Sexta-feira");
+          default -> IO.println("Número inválido!");     
         }
 
     }   

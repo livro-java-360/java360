@@ -1,4 +1,4 @@
-public class AlgoritmoDezesseis {
+public class Algoritmo16 {
    public void main(){
       int i = 1;
       while (i <= 5) {
